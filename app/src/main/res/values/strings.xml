@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auto Sell</string>
+    <string name="add" />
+    <string name="nameText">Name: </string>
+    <string name="ageText">Age: </string>
+    <string name="priceText">Price: </string>
+</resources>
